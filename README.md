@@ -1,5 +1,10 @@
 # CS303 Artificial Intelligence
 
+[![language](https://img.shields.io/github/languages/top/Ryyyc/CS303-Artificial-Intelligence?color=%23330099)]()
+[![commit activity](https://img.shields.io/github/commit-activity/m/Ryyyc/CS303-Artificial-Intelligence)](https://github.com/Ryyyc/CS303-Artificial-Intelligence/commits/master)
+[![code size](https://img.shields.io/github/languages/code-size/Ryyyc/CS303-Artificial-Intelligence?color=%230099CC)]()
+[![repo size](https://img.shields.io/github/repo-size/Ryyyc/CS303-Artificial-Intelligence?color=%23CC9900)]()
+
 <br>
 
 ## Brief
